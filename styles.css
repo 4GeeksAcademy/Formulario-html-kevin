@@ -1,0 +1,6 @@
+.mensaje {
+    color: darkred;
+    margin-top: 5px;
+    background-color: rgba(255, 0, 0, 0.432);
+    padding-left: 15px;
+}
